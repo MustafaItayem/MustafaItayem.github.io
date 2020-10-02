@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    display: grid;
+    margin: 0px auto;
+    grid-template-rows: 150px;
+    max-width: 1000px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-content{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+img{
+    width: 100%;
+}

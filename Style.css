@@ -1,0 +1,14 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+img{
+    border-radius: 20px;
+}
+h1{
+    font-family: 'Bangers', cursive;
+    font-size: 72px;
+}
+.project{
+    border: 2px solid grey;
+    border-radius: 5px;
+}
