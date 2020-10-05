@@ -19,19 +19,24 @@ h1{
 .contact{
     border: 2px solid red;
     border-radius: 5px;
-    background-color: white;
+    background-color: black;
+    padding: 20px;
+
 }
 .bio{
     border: 2px solid red;
     border-radius: 5px;
-    background-color: white;
+    background-color: black;
+    padding: 20px;
+
 }
 .title{
     color: springgreen;
+    
 }
 body{
-    background-image: url(./Photos/photo-1550645612-83f5d594b671.jpg)
-
+    background-image: url(./Photos/photo-1550645612-83f5d594b671.jpg);
+    background-size: cover;
 }
 body{
     color: bisque;
@@ -40,6 +45,10 @@ body{
 h1{
     color: rgb(143, 255, 121);
 }
-h3{
-    color: white;
+/* img {
+    opacity: 1;
+  } */
+div{
+    background-color: black;
+    background-position: center;
 }
